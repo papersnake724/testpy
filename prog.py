@@ -2,3 +2,4 @@
 
 print 'Hello world'
 print ':)'
+print 2+2
